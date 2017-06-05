@@ -1,0 +1,7 @@
+Developed tools for reconciliation between Kynex risk management system and dual brokers using Access, C# and MS SQL Server.
+Developed reconciliation tool between dual brokers and internal accounting system using Access, C# and MS SQL Server.
+Developed automated email system using C# and MS SQL Server to send daily position / risk emails to trade desk.
+Created account and investor management tool using C# and MS SQL Server that allowed administration team to manage accounts and keep in contact with investors in addition to keeping up-to-date net asset value data and history. 
+Created a web trade authorization site using C# and ASP.net that allowed employees to keep track of trades via email, informing the fund manager of new trades and notifying the employee once the trade had been approved.
+Created hedge tracking tool using C# and MS SQL Server which allowed operations team to keep track of position hedge ratio across multiple funds.
+Developed a month-end price reconciliation tool using C# and MS SQL Server used to mark bonds for month-end pricing of accounts.
