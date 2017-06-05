@@ -1,0 +1,53 @@
+Description
+Department Overview
+Barclays moves, lends, invests and protects money for customers and clients worldwide. With over 300 years of history and expertise in banking, we operate in over 50 countries and employ over 140,000 people.
+We provide large corporate, government and institutional clients with a full spectrum of solutions to their strategic advisory, financing and risk management needs. Our clients also benefit from access to the breadth of expertise across Barclays. Were one of the largest financial services providers in the world, and are also engaged in retail banking, credit cards, corporate banking, and wealth and investment management.
+For further information about Barclays, please visit our website www.barclays.com.
+It is the policy of Barclays to ensure equal employment opportunity without discrimination or harassment on the basis of race, color, creed, religion, national origin, alienage or citizenship status, age, sex, sexual orientation, gender identity or expression, marital or domestic/civil partnership status, disability, protected veteran status, genetic information, or any other basis protected by law.
+
+Main Function
+One of the Barclays' transform program is building the next generation Equity Derivatives platform which includes risk/pnl, trade capture & lifecycle management system for structured equity business. Equity derivatives is a vibrant and exciting business which is undergoing spectacular growth in terms of trading volumes, global coverage, the breadth of product coverage and the revenue it generates for the firm. This team provides global front-to-back trade processing and risk management solutions for various Equity Derivatives businesses including Index & Single stock volatility trading, Convertible Bond, Exotics, Risk Arbitrage, Fund Linked derivative and global structuring.
+Trading desks as well as our IT teams are currently in New York, London and Hong Kong; plus IT team in Pune.
+The role is for a strong developer to work on the new strategic trading platform for Equity Derivatives. The project is wholly greenfield with an in-house developed series of applications built using C# and XAML.
+
+Main Duties
+This AVP level hire will undertake a UI development role within Equity Derivatives Technology. They will be central in cultivating a high quality ethos and will be involved in all aspects of the development lifecycle from requirements gathering through to delivery.
+The candidate will be joining the UI team developing Trade Capture tools for the new trading platform. This will cover the full life-cycle - analysing requirements from Front Office, meeting Business users, developing Front-Office tools and deploying into Production. Agile methodologies and test-driven techniques are used to get the applications to the users in a fast and sustainable way. There will be substantial user contact with the Front Office, Middle Office, Operations and Product Control departments as well as frequent liaison with other technology and infrastructure teams.
+These new booking tools require slick and robust UI components to enable traders in pricing and booking complex trades. The role will be developing these discrete components and controls that can be reused by other developers.
+A motivated developer with expert UI skills within a self-directed and self-organizing team to deliver high quality, robust technical solutions on applications supporting up to several hundred users. Must be able to communicate with and mentor less knowledgeable (but capable), local or remote team members.
+
+Take full project lifecycle responsibility:
+• Gather requirements from all user groups and using appropriate techniques and agree scope.
+• Architect and design solutions which are consistent with the teams strategic technology direction and can be delivered within required time scales.
+• Hands-on development of solutions using C# and XAML
+• Determine and execute suitable testing strategy
+• Facilitate UAT by multiple stakeholder areas
+• Plan and coordinate packaging and deployment of applications by appropriate teams
+
+Additional responsibilities:
+• Identify issues within projects, processes or procedures and look to provide or influence solutions.
+• Taking part in department or bank wide technical forums and/or initiatives. Leverage technical, communication and influencing skills to achieve win-win outcomes.
+• Proactive communication with local and remote team members in person, over the phone or in VCs.
+
+Risk and Control Objective
+Ensure that all activities and duties are carried out in full compliance with regulatory requirements, Barclays Operational Risk Framework and internal Barclays Policies and Standards.
+
+Person Requirements
+Basic Qualifications:
+• Education: Bachelor degree or better - strong academic background in software engineering required.
+• 5+ years of experience in C#, Winforms (not VB.NET)
+• 3+ years of XAML
+• 3+ years of experience in .NET 3.5 or above
+• 1+ years of experience in WPF
+
+Preferred Qualifications:
+• Experience with 3rd party WPF libraries (preferably Infragistics/Component One)
+• Experience with MVVM pattern
+• Multithreading knowledge (UI thread interactions, synchronization constructs, knowledge of Task library)
+• Experience with source control systems (git, P4)
+• Excellent verbal & written communication skills.
+
+Barclays Values and Diversity
+Our common purpose is to help people achieve their ambitions – in the right way. We’ll measure and reward our people, not just on commercial results, but on how they live our Values of Respect, Integrity, Service, Excellence and Stewardship and bring them to life every day. And we’ll judge our ‘Go-To’ success on a balanced scorecard of impact.
+To find out more about working at Barclays and the development opportunities we offer please visit our website www.barclays.com
+We are an equal opportunity employer and we are opposed to discrimination on any grounds
